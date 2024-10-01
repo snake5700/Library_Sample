@@ -7,6 +7,3 @@ Vincoli:
 - I gestori di una libreria possono non essere tesserati per le librerie facenti parte della stessa catena, inoltre hanno diritto ad uno sconto del 20% sul prezzo di tutti i libri presenti nel catalogo;
 - Non è possibile prendere in prestito un libro senza essere stati registrati all'interno del sistema ed aver ricevuto la propria tessera;
 - Se il cliente ha ricevuto una multa per la mancata restituzione non potrà prendere più prendere prestito libri nelle librerie della stessa catena, inoltre il mancato pagamento di questa comporta la sospensione della tessera fino al ricevimento del dovuto.
-
-
-# In Aggiornamento.

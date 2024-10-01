@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "/home/adamska/uni/progetti/header.h",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "stdexcept": "cpp"
+    }
+}
